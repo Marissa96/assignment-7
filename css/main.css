@@ -1,0 +1,39 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+.left {
+  width: 125px;
+}
+
+.brain {
+  width: 46px;
+}
+
+.right {
+  width: 125px;
+}
+
+.body {
+  width: 320px;
+}
+
+div {
+  background-color: #2c3950;
+}
+
+header {
+  background-color: #1a2230;
+}
+
+h1 {
+  color: white;
+}
